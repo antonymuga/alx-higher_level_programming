@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-for count in range(99):
-    print('{:02d}'.format(count), end=', ')
+for counter in range(99):
+    print('{:02d}'.format(counter), end=', ')
 print('99')
